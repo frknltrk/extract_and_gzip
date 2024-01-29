@@ -1,0 +1,1 @@
+pip install pyinstaller && pyinstaller --onefile .\extract_and_gzip.py
